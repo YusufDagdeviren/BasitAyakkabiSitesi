@@ -1,0 +1,43 @@
+body {
+    background-color: #EEEEEE;
+}
+
+.pageCenter {
+    text-align: center;
+}
+
+.setFont {
+    font-family: 'Noto Sans Mono', monospace;
+}
+
+section {
+    width: 300px;
+    margin: auto;
+}
+
+ul {
+    color: #00ADB5;
+}
+
+a:link {
+    color: red;
+}
+
+/* visited link */
+a:visited {
+    color: green;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
+.dimension-photos {
+    width: 240px;
+    height: 240px;
+}

@@ -1,0 +1,61 @@
+body {
+    background-color: #EEEEEE;
+}
+
+.page-center {
+    text-align: center;
+}
+
+.get-middle {
+    width: 300px;
+    margin: auto;
+}
+a:link {
+    color: red;
+}
+
+/* visited link */
+a:visited {
+    color: green;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
+.set-font {
+    font-family: 'Noto Sans Mono', monospace;
+}
+
+.dimension-photos {
+    width: 240px;
+    height: 240px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: #222831;
+    padding: 10px;
+}
+
+.grid-item {
+    background-color: #EEEEEE;
+    border: 1px solid #393E46;
+    padding: 20px;
+    font-size: 50px;
+    text-align: center;
+}
+img {
+    width: 400px;
+    height: 500px;
+}
