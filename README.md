@@ -1,5 +1,5 @@
 # Html ve Css ile yapmış olduğum basit ayakkabı sitesi 
 
-<video width="500" height="270" controls>
-  <source src="Photos/video.mp4" type="video/mp4">
-</video>
+
+https://user-images.githubusercontent.com/87547919/193284640-78acd351-16d2-4d18-8dfb-92622c96871e.mp4
+
